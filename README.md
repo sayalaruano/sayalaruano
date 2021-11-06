@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <table>
   <thead>
     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=sayalaruano&theme=default"></th>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=sayalaruano&show_icons=true" alt="Sebastián Ayal-Ruano's Top Langs" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=sayalaruano&show_icons=true" alt="Sebastián's Top Langs" /></th>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayalaruano&layout=compact" /></th>
   </thead>
 </table>
@@ -106,4 +106,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sayalaruano" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/sayalaruano" height="30" width="30" /></a>
   <a href="https://orcid.org/0000-0001-9756-6745" target="blank">
     <img align="center" src="https://img.icons8.com/windows/64/000000/orcid.png" alt="https://orcid.org/0000-0001-9756-6745" height="30" width="30" /></a>
+  <a href="https://www.researchgate.net/profile/Sebastian-Ayala-Ruano" target="blank">
+    <img align="center" src="https://img.icons8.com/windows/64/000000/researchgate.png" alt="https://www.researchgate.net/profile/Sebastian-Ayala-Ruano" height="30" width="30" /></a> 
 </p>
