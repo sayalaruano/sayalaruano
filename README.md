@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   <tr>
     <td>UI User Interface and Scientific Design: </td>
     <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" width="40" height="40"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" width="60" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </td>
   </tr>
