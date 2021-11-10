@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayalaruano" alt="sayalaruano" /> </p>
 
-- 🔭 I’m currently working on **Network science and machine learning to explore the chemical space of antiparasitic peptides and discover new potential drugs**
+- 🔭 I’m currently working on **Network science and machine learning for drug discovery**
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch, Tidyverse, Flask, Streamlit**
 
