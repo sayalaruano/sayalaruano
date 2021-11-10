@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <tr>
     <td>Database</td> 
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="40" height="40"/> </td>
+     <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="60" height="40"/> </td>
   </tr>
    <tr>
     <td>DevOps</td>
@@ -86,12 +86,12 @@ Here are some ideas to get you started:
   <tr> 
     <td>Data Science and Machine Learning</td>
      <td><img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></td>
-     <td><img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></td>
-     <td><img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></td>
-     <td><img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" width="40" height="40"/></td>
-     <td><img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Sklearn" width="40" height="40"/></td>
-     <td><img src="https://github.com/valohai/ml-logos/raw/master/tensorflow-layout.svg" alt="Tensorflow" width="40" height="40"/></td>
-     <td><img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" width="40" height="40"/></td>
+     <td><img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="60" height="40"/></td>
+     <td><img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="60" height="40"/></td>
+     <td><img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" width="60" height="40"/></td>
+     <td><img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Sklearn" width="60" height="40"/></td>
+     <td><img src="https://github.com/valohai/ml-logos/raw/master/tensorflow-layout.svg" alt="Tensorflow" width="60" height="40"/></td>
+     <td><img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" width="60" height="40"/></td>
   </tr>
   <tr>
     <td>OS</td>
