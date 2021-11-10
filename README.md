@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
   <thead>
     <td>Languages</td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </td>
     <td><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </td>
+    <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></td>
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <tr>
     <td>Database</td> 
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </td>
+     <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="40" height="40"/> </td>
   </tr>
    <tr>
     <td>DevOps</td>
@@ -71,9 +71,9 @@ Here are some ideas to get you started:
      <td><img src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" alt="slack" width="40" height="40"/> </td>
   </tr>
   <tr>
-    <td>UI Design</td>
+    <td>UI User Interface and Scientific Design: </td>
     <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="40" height="40"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </td>
   </tr>
@@ -84,15 +84,19 @@ Here are some ideas to get you started:
   </tr>
   
   <tr> 
-    <td>Data Science</td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></td>
+    <td>Data Science and Machine Learning</td>
+     <td><img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></td>
+     <td><img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></td>
+     <td><img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></td>
+     <td><img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" width="40" height="40"/></td>
+     <td><img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Sklearn" width="40" height="40"/></td>
+     <td><img src="https://github.com/valohai/ml-logos/raw/master/tensorflow-layout.svg" alt="Tensorflow" width="40" height="40"/></td>
+     <td><img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" width="40" height="40"/></td>
   </tr>
   <tr>
     <td>OS</td>
-    <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/></td>    
-    <td><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="Open Suse" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" width="40" height="40"/></td>    
+    <td><img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="Open Suse" width="40" height="40"/></td>
   </tr>
 
 </table>
