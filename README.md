@@ -95,8 +95,8 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>OS</td>
-    <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" width="40" height="40"/></td>    
-    <td><img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="Open Suse" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" width="70" height="40"/></td>    
+    <td><img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="Open Suse" width="70" height="40"/></td>
   </tr>
 
 </table>
