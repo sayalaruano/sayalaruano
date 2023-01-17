@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
-<h3 align="center">I am a young researcher and freelance data scientist, currently pursuing a master’s degree in Systems Biology at  <a href="https://www.maastrichtuniversity.nl/nl">Maastricht University </a>, the Netherlands. I have worked in **Bioinformatics** and **Cheminformatics** for **five years** at different laboratories. I am part of several research, open  science, and software development communities (International Society for Computational Biology Student Council, The Carpentries, Streamlit Creators, and Open Life Science). Moreover, I am involved in various initiatives to empower Bioinformatics in Ecuador and Latin America.</h3>
+<h3 align="center">I am a young researcher and freelance data scientist, currently pursuing a master’s degree in Systems Biology at  <a href="https://www.maastrichtuniversity.nl/nl">Maastricht University </a>, the Netherlands. I have worked in Bioinformatics and Cheminformatics for five years at different laboratories. I am part of several research, open  science, and software development communities (International Society for Computational Biology Student Council, The Carpentries, Streamlit Creators, and Open Life Science).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayalaruano" alt="sayalaruano" /> </p>
 
