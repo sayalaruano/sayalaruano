@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
-<h3 align="center">Biotechnology engineer interested in Bioinformatics, Machine Learning, and Network Science for drug discovery</h3>
+<h3 align="center">I am a young researcher and freelance data scientist, currently pursuing a master’s degree in Systems Biology at [Maastricht University](https://www.maastrichtuniversity.nl/nl), the Netherlands. I have worked in **Bioinformatics** and **Cheminformatics** for **five years** at different laboratories. My current research interests are devoted to **Network Science** and **Machine Learning** for drug discovery. I am part of several research, open-science, and software development communities ([ISCBSC](https://iscbsc.org/), [The Carpentries](https://carpentries.org/), [Streamlit Creators](https://streamlit.io/creators), and [Open Life Science](https://openlifesci.org/)). Moreover, I am involved in various initiatives to empower Bioinformatics in Ecuador and Latin America.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayalaruano" alt="sayalaruano" /> </p>
 
