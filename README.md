@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
-<h3 align="center">I am a young researcher and freelance data scientist, currently pursuing a master’s degree in Systems Biology at [Maastricht University](https://www.maastrichtuniversity.nl/nl), the Netherlands. I have worked in **Bioinformatics** and **Cheminformatics** for **five years** at different laboratories. My current research interests are devoted to **Network Science** and **Machine Learning** for drug discovery. I am part of several research, open-science, and software development communities ([ISCBSC](https://iscbsc.org/), [The Carpentries](https://carpentries.org/), [Streamlit Creators](https://streamlit.io/creators), and [Open Life Science](https://openlifesci.org/)). Moreover, I am involved in various initiatives to empower Bioinformatics in Ecuador and Latin America.</h3>
+<h3 align="center">I am a young researcher and freelance data scientist, currently pursuing a master’s degree in Systems Biology at  <a href="https://www.maastrichtuniversity.nl/nl">Maastricht University </a>, the Netherlands. I have worked in **Bioinformatics** and **Cheminformatics** for **five years** at different laboratories. I am part of several research, open  science, and software development communities (International Society for Computational Biology Student Council, The Carpentries, Streamlit Creators, and Open Life Science). Moreover, I am involved in various initiatives to empower Bioinformatics in Ecuador and Latin America.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayalaruano" alt="sayalaruano" /> </p>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🤔 Interests: **Network Science, Machine learning, Deep learning, Graph Neural Networks, Data Science, Open science, Drug discovery**
 
-- ⚡ Hobbies: When I’m not working, I can be found riding my mountain bike, reading books about science communication, mystery, or history, hiking, listening to rock music, and watching thrillers or documentary films.
+- ⚡ Hobbies: When I am not working, I can be found riding my mountain bike, hiking, listening to music, watching thrillers or documentary films, or reading books about science communication, mystery, or history.
 
 - More information about me in [my personal webpage](https://sayalaruano.github.io/).
 
