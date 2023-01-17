@@ -14,17 +14,19 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
-<h3 align="center">I am a young researcher and freelance data scientist, currently pursuing a master’s degree in Systems Biology at  <a href="https://www.maastrichtuniversity.nl/nl">Maastricht University </a>, the Netherlands. I have worked in Bioinformatics and Cheminformatics for five years at different laboratories. I am part of several research, open  science, and software development communities (International Society for Computational Biology Student Council, The Carpentries, Streamlit Creators, and Open Life Science).</h3>
+<h3 align="center">I am a young researcher and freelance data scientist, currently pursuing a master’s degree in Systems Biology at  <a href="https://www.maastrichtuniversity.nl/nl"> Maastricht University </a>, the Netherlands. I have worked in Bioinformatics and Cheminformatics for five years at different laboratories.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayalaruano" alt="sayalaruano" /> </p>
 
-- 🔭 I’m currently working on **Network science and machine learning for drug discovery**
+- 🔭 I’m currently working on **Network science and machine learning for drug discovery.**
 
-- 🌱 I’m currently learning **Tensorflow, Pytorch, Tidyverse, Flask, Streamlit**
+- 🌱 I’m currently learning **Tensorflow, Pytorch, Tidyverse, and Streamlit.**
+
+- 🤝 Communities: International Society for Computational Biology Student Council, The Carpentries, Streamlit Creators, and Open Life Science.
 
 - 👨‍💻 All of my projects are available at [🌐🔗🌐](https://sayalaruano.github.io/project/).
 
-- 🤔 Interests: **Network Science, Machine learning, Deep learning, Graph Neural Networks, Data Science, Open science, Drug discovery**
+- 🤔 Interests: **Network Science, Machine learning, Deep learning, Graph Neural Networks, Data Science, Open science, and Drug discovery.**
 
 - ⚡ Hobbies: When I am not working, I can be found riding my mountain bike, hiking, listening to music, watching thrillers or documentary films, or reading books about science communication, mystery, or history.
 
@@ -44,8 +46,6 @@ Here are some ideas to get you started:
 </table>
 
 <hr>
-   
-
 
 <table>
 
